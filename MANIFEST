@@ -13,6 +13,8 @@ inc/Module/Install/Metadata.pm
 inc/Module/Install/Repository.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
+inc/Test/Builder/Module.pm
+inc/Test/More.pm
 lib/Email/Address/JP/Mobile.pm
 lib/Email/Address/JP/Mobile/AirH.pm
 lib/Email/Address/JP/Mobile/Base.pm
@@ -27,6 +29,7 @@ README
 t/00_compile.t
 t/01_usage.t
 t/02_emails.t
+t/03_encoding.t
 xt/dependencies.t
 xt/perlcritic.t
 xt/perlcriticrc
