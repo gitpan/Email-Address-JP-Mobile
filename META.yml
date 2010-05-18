@@ -28,4 +28,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://svn.coderepos.org/share/lang/perl/Email-Address-JP-Mobile/trunk
-version: 0.03
+version: 0.04
