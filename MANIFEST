@@ -25,10 +25,7 @@ t/01_usage.t
 t/02_emails.t
 t/03_encoding.t
 t/04_nonmobile.t
-xt/dependencies.t
 xt/perlcritic.t
 xt/perlcriticrc
 xt/pod.t
-xt/pod_coverage.t
 xt/podspell.t
-xt/synopsis.t
