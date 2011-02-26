@@ -3,9 +3,7 @@ abstract: 'Japanese carrier email class'
 author:
   - 'Naoki Tomita <tomita@cpan.org>'
 build_requires:
-  Email::Address: 0
   ExtUtils::MakeMaker: 6.42
-  Test::More: 0.96
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
@@ -30,4 +28,4 @@ resources:
   bugtracker: http://github.com/tomi-ru/Email-Address-JP-Mobile/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/tomi-ru/Email-Address-JP-Mobile
-version: 0.06
+version: 0.07
